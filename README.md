@@ -1,5 +1,5 @@
 # Rats on The Boat - BitTorrent search engine
-
+[![Run on Repl.it](https://repl.it/badge/github/DEgITx/rats-search)](https://repl.it/github/DEgITx/rats-search)
 <p align="center"><a href="https://github.com/DEgiTx/rats-search"><img src="https://raw.githubusercontent.com/DEgITx/rats-search/master/resources/rat-logo.png"></a></p>
 
 [![CircleCI Build Status](https://circleci.com/gh/DEgITx/rats-search.png?style=shield)](https://circleci.com/gh/DEgITx/rats-search)
